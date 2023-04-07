@@ -1,0 +1,21 @@
+.risk .butt button{
+    border: 0px solid;
+    border-radius:5px;
+    font-size:20px;
+    border-width:0px;
+    background-color: rgb(192, 191, 191);
+    padding:10px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.risk .butt button:focus{
+    background-color: black;
+    color:white;
+}
+
+button{
+    cursor: pointer;
+}
+
+
